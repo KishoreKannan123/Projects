@@ -1,3 +1,3 @@
-
-reflex init
+Steps to run the project \\
+reflex init \\
 reflex run
