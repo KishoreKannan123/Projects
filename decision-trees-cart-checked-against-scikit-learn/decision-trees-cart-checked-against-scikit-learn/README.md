@@ -1,0 +1,30 @@
+# Decision Trees: CART, Checked Against Scikit-Learn
+
+Chapter 5 of Hands-On Machine Learning, done the way you would verify your understanding on the job: grow a CART classifier by hand with Gini impurity, then check it split for split against scikit-learn on the iris data, see overfitting appear and disappear with min_samples_leaf, fit a regression tree, then save the model and serve it.
+
+## How to run
+
+```bash
+python scaffold.py
+```
+
+## Steps
+
+- [x] **1.** gini
+- [x] **2.** best_split
+- [x] **3.** grow_tree
+- [x] **4.** predict_tree
+- [x] **5.** fit_sklearn_tree
+- [x] **6.** sklearn_splits
+- [x] **7.** compare_trees
+- [x] **8.** moons_data
+- [x] **9.** overfit_vs_regularized
+- [x] **10.** rotation_sensitivity
+- [x] **11.** regression_tree
+- [x] **12.** tree_rules
+- [x] **13.** save_and_reload_tree
+- [x] **14.** predict_species
+
+---
+
+Built on Deep-ML.
